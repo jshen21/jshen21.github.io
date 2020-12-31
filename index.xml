@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://jshen21.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jshen21.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jshen21.github.io/about/</link>
+      <pubDate>Thu, 31 Dec 2020 10:00:05 -0500</pubDate>
+      
+      <guid>https://jshen21.github.io/about/</guid>
+      <description>My test hugo site
+Overview #  A Space is a place for Mode users to organize reports around a team, project, or common theme.
+Click on a Space to see a list of all of the reports in that Space. At the top of your screen, you can toggle between viewing all reports or archived reports. You can also sort reports by name or when they were created, last edited, or last run.</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://jshen21.github.io/post/work/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jshen21.github.io/post/work/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://jshen21.github.io/post/life/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jshen21.github.io/post/life/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
